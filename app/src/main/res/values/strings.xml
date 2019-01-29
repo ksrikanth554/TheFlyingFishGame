@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">The Flying Fish Game</string>
+    <string name="developer_name">Developed by
+        Srikanth</string>
+    <string name="gameover">Game Over</string>
+</resources>
